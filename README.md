@@ -71,8 +71,10 @@ Now we have to set up Google Cloud consle to allow us to interact with the Gmail
 
 For more information on how main.py works, look at the Geeks for Geeks link for an explination. 
 
-If you need any help, create an issue and ill do my best to help you
+## If you need any help, create an issue and ill do my best to help you
 
 Thanks to Geeks for Geeks for the information and code that this uses 
+
 I found some of the steps to be outdated so thats why I created these steps, but most of them should be the same if you need another reference.
+
 https://www.geeksforgeeks.org/how-to-read-emails-from-gmail-using-gmail-api-in-python/
