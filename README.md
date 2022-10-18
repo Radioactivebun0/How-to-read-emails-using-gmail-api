@@ -10,7 +10,7 @@ Now we have to set up Google Cloud consle to allow us to interact with the Gmail
 
 1. Sign in to Google Cloud console and create a New Project or continue with an existing project. You can use this link: https://console.cloud.google.com/
 
-<img src="https://user-images.githubusercontent.com/link-to-your-image.png](https://github.com/Radioactivebun0/How-to-read-emails-using-gmail-api/blob/main/pics/step1.png?raw=true" width="200" />
+<img src="https://github.com/Radioactivebun0/How-to-read-emails-using-gmail-api/blob/main/pics/step1.png?raw=true" width="400" />
 
 2. 
 
