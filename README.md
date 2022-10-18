@@ -1,5 +1,4 @@
 # How-to-read-emails-using-gmail-api
-# Still creating the steps
 Steps to read emails using gmails api in python:
 
 1. Install the required google libraries by running: `pip3 install –upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`
@@ -48,7 +47,32 @@ Now we have to set up Google Cloud consle to allow us to interact with the Gmail
 
 13. This brings you to the Summary tab, scroll to the bottom and press BACK TO DASKBOARD
 
+14. Configure the credentials by clicking on Credentials within the tab APIs and Services
 
+<img src="https://github.com/Radioactivebun0/How-to-read-emails-using-gmail-api/blob/main/pics/step8.png?raw=true" width="400" />
+
+15. Click Create Credentials and then OAuth client ID
+
+16. Set the application type to Desktop Application
+
+<img src="https://github.com/Radioactivebun0/How-to-read-emails-using-gmail-api/blob/main/pics/step9.png?raw=true" width="400" />
+
+17. Under name enter any name
+
+18. Press CREATE at the bottom of the page
+
+19. Press the download button to dowload the Credentials to your computer
+
+<img src="https://github.com/Radioactivebun0/How-to-read-emails-using-gmail-api/blob/main/pics/step10.png?raw=true" width="400" />
+
+20. Rename the download file to `credentials.json` and put it in the same dictionary as main.py, which can be dowloaded from this repository
+
+21. Run main.py, if it is your first time, you will be prompted to sign into your google account. You can only sign in with gmail accounts that where defined as test users in step 10
+
+For more information on how main.py works, look at the Geeks for Geeks link for an explination. 
+
+If you need any help, create an issue and ill do my best to help you
 
 Thanks to Geeks for Geeks for the information and code that this uses 
+I found some of the steps to be outdated so thats why I created these steps, but most of them should be the same if you need another reference.
 https://www.geeksforgeeks.org/how-to-read-emails-from-gmail-using-gmail-api-in-python/
