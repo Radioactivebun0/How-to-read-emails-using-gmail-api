@@ -1,4 +1,5 @@
-# How-to-read-emails-using-gmail-api
+# This might be outdated, its been over a year since ive messed with gmails api
+## How-to-read-emails-using-gmail-api
 Steps to read emails using gmails api in python:
 
 1. Install the required google libraries by running: `pip3 install –upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`
@@ -71,7 +72,7 @@ Now we have to set up Google Cloud consle to allow us to interact with the Gmail
 
 For more information on how main.py works, look at the Geeks for Geeks link for an explination. 
 
-## If you need any help, create an issue and ill do my best to help you
+
 
 Thanks to Geeks for Geeks for the information and code that this uses 
 
